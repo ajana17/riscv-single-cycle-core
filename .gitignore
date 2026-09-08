@@ -1,1 +1,25 @@
+# Vivado execution and log files
+*.log
+*.jou
+*.pb
+*.str
+*.wdb
+*.vcd
 
+# Vivado project cache and build directories
+.Xil/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Vivado temporary and checkpoint files
+*.dcp
+*.rpt
+*.bit
+*.bin
+
+# OS specific files
+.DS_Store
+Thumbs.db
